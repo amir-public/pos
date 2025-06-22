@@ -18,13 +18,13 @@ POS Front End System is a Next.js that to control and operates seals and report
 
 
 ## Screenshots
-![Sample of Station Control Tab](/public/img/profile/pos/01.png)
+![Sample of Station Control Tab](/img/01.png)
 
 
 ## Screenshots
-![Sample of Station Control Tab](/public/img/profile/pos/02.png)
+![Sample of Station Control Tab](/img/02.png)
 
 
 
 ## Screenshots
-![Sample of Station Control Tab](/public/img/profile/pos/03.png)
+![Sample of Station Control Tab](/img/03.png)
