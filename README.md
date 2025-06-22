@@ -1,5 +1,5 @@
 # POS SYSTEM
-This is POS system small busunness 
+This is POS system small business 
 ==================================
 
 ## Table of Content:
