@@ -1,12 +1,6 @@
 # POS SYSTEM
-This is POS system small business 
+This is POS system small business
 ==================================
-
-## Table of Content:
-
-- [About The App](#about-the-app)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
 
 
 ## About The App
